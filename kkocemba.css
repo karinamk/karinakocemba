@@ -34,6 +34,12 @@ nav li {
 
 }
 
+a {font-family: "Poiret One";
+  font-size: 25px;
+  font-weight: bold;
+  color: #270738;
+}
+
 #footer {
     font-family: "Poiret One" ;
     text-align: center;
